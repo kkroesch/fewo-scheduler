@@ -9,8 +9,6 @@ whitenoise==3.3.0
 dj-database-url==0.4.2
 dj-email-url==0.0.10
 
-
-
-
 newrelic==2.86.0.65
 
+django-scheduler==0.8.8
