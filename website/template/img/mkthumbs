@@ -1,0 +1,1 @@
+mogrify -resize 502x270 -background black -gravity center -extent 502x270 -format jpg -quality 75 -path thumbs *.jpg
